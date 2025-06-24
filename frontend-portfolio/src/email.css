@@ -1,0 +1,10 @@
+.form-control:focus {
+    border-color: white !important;
+    box-shadow: 0 0 15px rgba(255, 255, 255, 0.8) !important;
+    outline: none;
+  }
+  .btn:hover{
+     background-color: green !important;
+     color: white !important;
+     transition: 0.7s ease-in-out;
+  }

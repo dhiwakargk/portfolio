@@ -1,0 +1,31 @@
+
+.contents{
+  font-size: 20px;
+  text-align: justify;
+}
+
+@media only screen and (max-width: 570px)
+{
+  
+  /* .type_text{
+    width: 900px !important;
+    margin-left: 40%;
+  }
+  .texts{
+
+    margin-left:40%;
+    width: 100%;
+  } */
+  
+.contents{
+  font-size: 15px;
+  text-align: justify;
+}
+
+}
+
+
+
+.imgs{
+    border-radius: 50%;
+}

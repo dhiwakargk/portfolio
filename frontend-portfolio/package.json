@@ -1,0 +1,41 @@
+{
+  "name": "portfolio",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "lint": "eslint .",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "@ramonak/react-progress-bar": "^5.3.0",
+    "aos": "^2.3.4",
+    "axios": "^1.8.4",
+    "bootstrap": "^5.3.3",
+    "js-types": "^4.0.0",
+    "react": "^19.0.0",
+    "react-awesome-button": "^7.0.5",
+    "react-circular-progressbar": "^2.2.0",
+    "react-dom": "^19.0.0",
+    "react-image-glow": "^1.0.6",
+    "react-typed": "^2.0.12",
+    "resend": "^4.1.2",
+    "swiper": "^11.2.5",
+    "type-js": "^1.0.0"
+  },
+  "devDependencies": {
+    "@eslint/js": "^9.21.0",
+    "@types/react": "^19.0.10",
+    "@types/react-dom": "^19.0.4",
+    "@vitejs/plugin-react": "^4.3.4",
+    "eslint": "^9.21.0",
+    "eslint-plugin-react-hooks": "^5.1.0",
+    "eslint-plugin-react-refresh": "^0.4.19",
+    "globals": "^15.15.0",
+    "sass": "^1.85.1",
+    "sass-embedded": "^1.85.1",
+    "vite": "^6.2.0"
+  }
+}
