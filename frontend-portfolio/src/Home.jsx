@@ -59,7 +59,7 @@ const Home=()=>{
             }} >ABOUT ME</a></li>
             <li className="nav-item mb-5" style={{listStyleType:"none"}}><a className="nav-link text-white" href="#" onClick={(e)=>{e.preventDefault()
               document.getElementById("skills").scrollIntoView({behavior:'smooth'})
-            }}>PROJECTS</a></li>
+            }}>SKILLS</a></li>
             <li className="nav-item mb-5" style={{listStyleType:"none"}}><a className="nav-link text-white" href="#" onClick={(e)=>{e.preventDefault()
               document.getElementById("projects").scrollIntoView({behavior:'smooth'})
             }} >PROJECTS</a></li>
